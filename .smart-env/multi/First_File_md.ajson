@@ -1,0 +1,2 @@
+
+"smart_sources:First File.md": {"path":"First File.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"0faa36cbf40d0758390e46c9d2992f9fd67c6334c8b1384299305089c65504af","at":1741829349185},"class_name":"SmartSource","outlinks":[{"title":"2nd file","target":"2nd file","line":7}],"metadata":{"tags":["test"]},"blocks":{"#---frontmatter---":[1,4],"#":[6,8]},"last_import":{"mtime":1741829272155,"size":50,"at":1741829349186,"hash":"0faa36cbf40d0758390e46c9d2992f9fd67c6334c8b1384299305089c65504af"}},
