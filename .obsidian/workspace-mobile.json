@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mac file test.md",
-                "mode": "source",
+                "file": "精力管理.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mac file test.md",
+            "file": "精力管理.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mac file test.md",
+            "file": "精力管理.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mac file test.md"
+            "file": "精力管理.md"
           }
         }
       },
@@ -140,6 +140,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -151,6 +152,8 @@
   },
   "active": "b404e37195111e13",
   "lastOpenFiles": [
-    "3rd file.md"
+    "3rd file.md",
+    "Mac file test.md",
+    "精力管理.md"
   ]
 }

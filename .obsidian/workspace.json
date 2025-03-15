@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa185ed3946c188f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "92e74f636dd88f52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "精力管理.md",
+                "file": "我哥.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "精力管理"
+              "title": "我哥"
+            }
+          },
+          {
+            "id": "2f84722f7f078f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "关系图谱.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "关系图谱"
             }
           }
         ],
@@ -105,7 +119,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,8 +204,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -199,8 +214,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -214,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -232,11 +247,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "92e74f636dd88f52",
+  "active": "bc4aada92b3d32ba",
   "lastOpenFiles": [
+    "克里斯多.md",
+    "我哥.md",
+    "重要的人.canvas",
+    "斯坦福大学人生设计课.md",
+    "关系图谱.md",
     "精力管理.md",
-    "3rd file.md",
-    "Untitled.md",
+    "情感精力Canva.canvas",
     "Welcome.md",
     "4th file.md",
     "First File.md",
