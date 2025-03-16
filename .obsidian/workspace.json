@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a699a2b7b611f005",
+        "id": "6c2eaad9d673f175",
         "type": "tabs",
         "children": [
           {
-            "id": "92e74f636dd88f52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "我哥.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "我哥"
-            }
-          },
-          {
-            "id": "2f84722f7f078f31",
+            "id": "7c0cb5a10b5c4ed0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +31,7 @@
               "title": "关系图谱"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,19 +44,6 @@
         "id": "3b1a1074ef525f64",
         "type": "tabs",
         "children": [
-          {
-            "id": "eb7071dd94c3bf76",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "ac183ee0f44b42c7",
             "type": "leaf",
@@ -115,16 +77,26 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "01ba40b5e29b1701",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 345.5,
     "collapsed": true
   },
   "right": {
@@ -233,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,11 +221,12 @@
   },
   "active": "bc4aada92b3d32ba",
   "lastOpenFiles": [
+    "No tag note.md",
+    "关系图谱.md",
     "克里斯多.md",
     "我哥.md",
     "重要的人.canvas",
     "斯坦福大学人生设计课.md",
-    "关系图谱.md",
     "精力管理.md",
     "情感精力Canva.canvas",
     "Welcome.md",
