@@ -11,9 +11,11 @@
       "adapter": "transformers",
       "transformers": {
         "legacy_transformers": false,
-        "model_key": "TaylorAI/bge-micro-v2"
+        "model_key": "andersonbcdefg/bge-small-4096"
       },
-      "TaylorAI/bge-micro-v2": {}
+      "TaylorAI/bge-micro-v2": {},
+      "Xenova/jina-embeddings-v2-base-zh": {},
+      "andersonbcdefg/bge-small-4096": {}
     },
     "smart_change": {
       "active": true
@@ -27,14 +29,22 @@
   },
   "smart_threads": {
     "chat_model": {
-      "adapter": "openai",
+      "adapter": "custom",
       "openai": {
         "model_key": "gpt-4o"
+      },
+      "custom": {
+        "api_adapter": "openai"
       }
     },
     "embed_model": {
       "model_key": "None"
-    }
+    },
+    "language": "en",
+    "review_context": false,
+    "lookup_limit": "10",
+    "send_tool_output_in_user_message": false
   },
-  "excluded_headings": ""
+  "excluded_headings": "",
+  "expanded_view": false
 }

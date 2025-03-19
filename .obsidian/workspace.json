@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6c2eaad9d673f175",
+        "id": "126651daeafe14a8",
         "type": "tabs",
         "children": [
           {
-            "id": "7c0cb5a10b5c4ed0",
+            "id": "db791380bc720b5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "关系图谱.md",
+                "file": "Carrer Advice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "关系图谱"
+              "title": "Carrer Advice"
             }
           }
         ]
@@ -91,13 +91,11 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "29e3e888a09c6fdf",
@@ -146,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "精力管理.md",
+                "file": "Carrer Advice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 精力管理"
+              "title": "Outline of Carrer Advice"
             }
           },
           {
@@ -199,6 +197,36 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "126eb66ad42111ab",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
+          },
+          {
+            "id": "f2ebd40669e8cb90",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "search",
+              "title": "Smart Lookup"
+            }
+          },
+          {
+            "id": "27c74f6f3a22f020",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat"
+            }
           }
         ],
         "currentTab": 3
@@ -216,18 +244,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "bc4aada92b3d32ba",
   "lastOpenFiles": [
-    "No tag note.md",
-    "关系图谱.md",
     "克里斯多.md",
+    "精力管理.md",
+    "Carrer Advice.md",
+    "关系图谱.md",
+    "No tag note.md",
     "我哥.md",
     "重要的人.canvas",
     "斯坦福大学人生设计课.md",
-    "精力管理.md",
     "情感精力Canva.canvas",
     "Welcome.md",
     "4th file.md",
