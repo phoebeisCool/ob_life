@@ -10,16 +10,27 @@
           {
             "id": "45a252f75c16afa8",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "重要的人.canvas",
-                "viewState": {
-                  "x": 143.25408655341366,
-                  "y": 154.69144985802154,
-                  "zoom": -0.8264764606665566
+                "file": "Carrer Advice.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
-              }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Carrer Advice"
             }
           }
         ]
@@ -37,8 +48,11 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
-          }
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -53,7 +67,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -63,8 +79,12 @@
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true
-          }
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -72,7 +92,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       },
       {
@@ -80,7 +102,19 @@
         "type": "leaf",
         "state": {
           "type": "tagfolder-view",
-          "state": {}
+          "state": {},
+          "icon": "stacked-levels",
+          "title": "Tag Folder"
+        }
+      },
+      {
+        "id": "5bf089e7c860b204",
+        "type": "leaf",
+        "state": {
+          "type": "tagfolder-view",
+          "state": {},
+          "icon": "stacked-levels",
+          "title": "Tag Folder"
         }
       }
     ],
@@ -96,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "我哥.md",
+            "file": "Carrer Advice.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,7 +138,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -113,10 +149,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "我哥.md",
+            "file": "Carrer Advice.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -125,8 +163,13 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "我哥.md"
-          }
+            "file": "Carrer Advice.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
@@ -134,7 +177,9 @@
         "type": "leaf",
         "state": {
           "type": "calendar",
-          "state": {}
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -142,7 +187,19 @@
         "type": "leaf",
         "state": {
           "type": "todo",
-          "state": {}
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "8ef99604a01999cf",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
         }
       }
     ],
@@ -150,18 +207,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Open Copilot Chat": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Chat": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "45a252f75c16afa8",
+  "active": "8ef99604a01999cf",
   "lastOpenFiles": [
+    "重要的人.canvas",
     "精力管理.md",
     "3rd file.md",
     "Mac file test.md"

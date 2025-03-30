@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "126651daeafe14a8",
+        "id": "21774c4d287199ef",
         "type": "tabs",
         "children": [
           {
-            "id": "db791380bc720b5d",
+            "id": "545faa2f7bb95152",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,7 +91,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -249,11 +250,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "bc4aada92b3d32ba",
+  "active": "545faa2f7bb95152",
   "lastOpenFiles": [
+    "Carrer Advice.md",
     "克里斯多.md",
     "精力管理.md",
-    "Carrer Advice.md",
     "关系图谱.md",
     "No tag note.md",
     "我哥.md",
